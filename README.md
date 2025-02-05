@@ -1,12 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Umar Farooq</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A passionate full Stack and ServiceNow developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarfarooq1901&label=Profile%20views&color=0e75b6&style=flat" alt="umarfarooq1901" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umarfarooq1901" alt="umarfarooq1901" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **umardev760@gmail.com**
 
